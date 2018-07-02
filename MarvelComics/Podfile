@@ -14,13 +14,6 @@ def core_pods
 
     # Security
     pod 'CryptoSwift'
-
-	# Mapper
-    pod 'AlamofireObjectMapper'
-    pod 'ObjectMapper'
-
-    # Image Helper
-    pod 'SDWebImage'
 end
 
 
