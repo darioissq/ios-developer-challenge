@@ -1,0 +1,30 @@
+#
+#   Created by : Dario Langella
+#   Sun, 1st June 2018, London
+#
+
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '11.0'
+use_frameworks!
+
+# Pods
+def core_pods
+    # Requests
+    pod 'Alamofire'
+
+    # Security
+    pod 'CryptoSwift'
+
+	# Mapper
+    pod 'AlamofireObjectMapper'
+    pod 'ObjectMapper'
+
+    # Image Helper
+    pod 'SDWebImage'
+end
+
+
+target 'MarvelComics' do
+    inhibit_all_warnings!
+    core_pods
+end

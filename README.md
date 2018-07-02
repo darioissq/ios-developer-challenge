@@ -1,5 +1,10 @@
 # Streetbees iOS developer challenge 
 
+### Update from Dario Langella
+Hello this is Dario Langella, Unfortunately didn't have time to handling internet connection and erros. Same for designing icon and launch screen.
+
+Sorry.
+
 ### Description
 Using the best API available on this side of the universe [https://developer.marvel.com/](https://developer.marvel.com/) make a simple master detail app that allows the user to scroll through all the comics ever released and view details for each comic.
 

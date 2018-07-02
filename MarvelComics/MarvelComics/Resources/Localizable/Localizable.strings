@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  MarvelComics
+
+  Created by Dario Langella on 01/07/2018.
+  Copyright © 2018 Dario Langella. All rights reserved.
+*/
+
+"generic_error" = "We have got an error, please try again";
+
+"close" = "Close";
